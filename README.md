@@ -10,3 +10,5 @@ A curated collection of responsibly disclosed bug bounty findings — vulnerabil
 
 ---
 ⭐ Star this repo if you found it useful. More writeups coming soon.
+
+| 2 | [Unauthenticated Zero-Value Order Creation](writeups/2026-zero-value-order-business-logic.md) | P2 (7.0) | Business Logic Flaw | ✅ Fixed |
